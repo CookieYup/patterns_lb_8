@@ -1,4 +1,4 @@
-# Patterns HW 8 — Express + React Proxy
+# Patterns LB 8 — Express + React Proxy
 
 Практична робота 8: серверна частина на Express та клієнтська частина на React з відображенням сторінок User, Admin, Super Admin через компоненти.
 
